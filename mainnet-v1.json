@@ -386,7 +386,7 @@
       "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
     ]
   },
-  "vaultEPT_ePyvCurve_impl_55Ae42": {
+  "vaultEPT_ePyvLUSD3CRV_impl_55Ae42": {
     "address": "0x2d2364D768892641212fA304d9E8a48fC9703F49",
     "constructorArgs": [
       "0x6bF5EB06201e4ea7C315b1C23BfE79fAE30541F9",
@@ -394,7 +394,7 @@
       "0x62F161BF3692E4015BefB05A03a94A40f520d1c0"
     ]
   },
-  "vaultEPT_ePyvCurve_LUSD_16SEP22": {
+  "vaultEPT_ePyvLUSD3CRV_16SEP22": {
     "address": "0xE486a875367875a7Ec1DfE40510B6Ed217849737",
     "constructorArgs": [
       "0x83d392a7be901892a8c861c96Ea430B8d9c2BD51",
