@@ -144,59 +144,59 @@
     ]
   },
   "delphiChainlinkFactory": {
-    "address": "0x68b2400084A0347785cbb15Aaf441AD080509F0e",
+    "address": "0x1Ce35D813D94EdCcec223C169aA16a502849C11d",
     "constructorArgs": []
   },
   "spotRelayer_USDC": {
-    "address": "0x9BeE1A78599915aeD57e637b9cB1DC4b4148fee6",
+    "address": "0xC4AF5867d5b59c53f925E05e58B3CB54986bae65",
     "constructorArgs": [
       "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A",
       1,
-      "0x8ebFb8d1d6f21197a9C64328BE1b4Df52CD88F95",
+      "0xD4f85ADBBE2aAf823C9942bF8bb2482E84c98fa1",
       "0x000000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       25
     ]
   },
   "chainlinkValueProvider_USDC": {
-    "address": "0x8ebFb8d1d6f21197a9C64328BE1b4Df52CD88F95",
+    "address": "0xD4f85ADBBE2aAf823C9942bF8bb2482E84c98fa1",
     "constructorArgs": [
       3600,
       "0x8fFfFfd4AfB6115b954Bd326cbe7B4BA576818f6"
     ]
   },
   "spotRelayer_DAI": {
-    "address": "0x76DC496b194980bFe45733aF15071cc92740A8Be",
+    "address": "0xe9259B41551dA3409ff04D45239CeE816EbF69aD",
     "constructorArgs": [
       "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A",
       1,
-      "0xC60a780d62314E2C722d3904EB65ce5bfbDaDBf1",
+      "0x6659e5FB4C819f48b9E4718980deD78503Ff552E",
       "0x0000000000000000000000006b175474e89094c44da98b954eedeac495271d0f",
       25
     ]
   },
   "chainlinkValueProvider_DAI": {
-    "address": "0xC60a780d62314E2C722d3904EB65ce5bfbDaDBf1",
+    "address": "0x6659e5FB4C819f48b9E4718980deD78503Ff552E",
     "constructorArgs": [
       3600,
       "0xAed0c38402a5d19df6E4c03F4E2DceD6e29c1ee9"
     ]
   },
   "delphiLUSD3CRVFactory": {
-    "address": "0x076714e647880Fea1f8237e3fE044cbE35F99ae3",
+    "address": "0x3d58139560FC6509dA5158b5e4eB0bea56b2c520",
     "constructorArgs": []
   },
   "spotRelayer_LUSD3CRV": {
-    "address": "0x0fd3bA76708C3B62C59882629405cF79B214079D",
+    "address": "0x520f45571F887427C950b6844F6ae6Db91744c0B",
     "constructorArgs": [
       "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A",
       1,
-      "0xdC7509B74A397ad4B2405DA877442d901D535037",
+      "0x2D4BeE897E562a78E60fdF7579A0676Fa47176EC",
       "0x000000000000000000000000ed279fdd11ca84beef15af5d39bb4d4bee23f0ca",
       25
     ]
   },
   "chainlinkValueProvider_LUSD3CRV": {
-    "address": "0xdC7509B74A397ad4B2405DA877442d901D535037",
+    "address": "0x2D4BeE897E562a78E60fdF7579A0676Fa47176EC",
     "constructorArgs": [
       3600,
       "0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7",
