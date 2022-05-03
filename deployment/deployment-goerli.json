@@ -1,271 +1,337 @@
 {
   "tokenGov": {
-    "address": "0xa28Bd1A33b47827f154F703C2BfD213801106460",
+    "address": "0xE6797A3e32d88a2c343AF486F2dbC3D858D485B0",
     "constructorArgs": []
   },
   "deployer": {
-    "address": "0x79655038a82a2e3dFd4354090903B46b936cCB6B",
+    "address": "0x7c041e8040B7A4381Aa787cf1eEC2C811b69c86A",
     "constructorArgs": []
   },
   "aerFactory": {
-    "address": "0xa805bD2C5C0F39777AC53efF7C896dB608Ef1D8f",
+    "address": "0x5BFA4279590BA3D23816edF84A7328A0b266561e",
     "constructorArgs": []
   },
   "codexFactory": {
-    "address": "0xC41EF6a143DDDfEd1e2Cc3bd276516C043835200",
+    "address": "0x8FFfD5Ea803C69593FA2D6dD103662315A6A4867",
     "constructorArgs": []
   },
   "collateralAuctionFactory": {
-    "address": "0x6DB2205cdDFB892FB430f02F64e1D14A510F876c",
+    "address": "0x86B2784b171B7147e3B98eAEfa26d220a31A9B28",
     "constructorArgs": []
   },
   "collybusFactory": {
-    "address": "0x2aE122805AB1Ff06DcA37e0775C9d1D0DbBF24B4",
+    "address": "0xaE4384AB1536a3e09C395e77b76939765315BE48",
     "constructorArgs": []
   },
   "debtAuctionFactory": {
-    "address": "0xC8612349668f5e2B88009eF236F5900cf3D018a3",
+    "address": "0xc888cB4326208a2D1187114aF24F3A4e8dDD7Bfa",
     "constructorArgs": []
   },
   "fiatFactory": {
-    "address": "0xAc0a62033556C182a9a58273B206F80f0594aC8C",
+    "address": "0x329074acd12Ed6851eEf80270042348e85fEC605",
     "constructorArgs": []
   },
   "limesFactory": {
-    "address": "0xf861f6FBa7D976359f8b943272b8Db0EE6A6b06b",
+    "address": "0x2346a2145C4c0Af42f2A085f2e118e1bE287E975",
     "constructorArgs": []
   },
   "monetaFactory": {
-    "address": "0x20352392e7BFbf86Aca9765C54F67d7f25AD0534",
+    "address": "0xe73AF949423f135D173Db1287151fAE1e061FCA2",
     "constructorArgs": []
   },
   "priceCalculatorFactory": {
-    "address": "0x3099cd1184292DcC94603086f7Aa8DF5cF85Dba5",
+    "address": "0xaE3346be28666AadF217A9A82a3C795a45FEbE41",
     "constructorArgs": []
   },
   "publicanFactory": {
-    "address": "0x199a69B5A92cf86E41Bd8c28480206eA674d66bb",
+    "address": "0x2AD6fcfeAAD9aB4f998ACF2437E4CBc67249Ba85",
     "constructorArgs": []
   },
   "surplusAuctionFactory": {
-    "address": "0x9Bb4D54E9FAefD5E1C7A458f577660Ea7e333301",
+    "address": "0xAd920B5217a723e1A5a14e4C3289696286Ccd197",
     "constructorArgs": []
   },
   "tenebraeFactory": {
-    "address": "0xA9F6D93269Ac82a9593b9FeC99E1d227c67E0b58",
+    "address": "0x42C1C860A248Ad6B35e6251b0CeD709ca655dae7",
     "constructorArgs": []
   },
   "aer": {
-    "address": "0xdf448d166091faC56F5B09459Fa0D76421aC69D4",
+    "address": "0x4FbF40C50Df8Aa45a3879Fcef111527bF348384b",
     "constructorArgs": [
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF",
-      "0x6d7132E7129037918b37f21911E9f4d087b86F17",
-      "0xfFB75F53A6c6e84cF885BbaEe53a55628c1E1378"
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0xc39255047BfDb531c4623Ad4e3eF4d7fF3C4585A",
+      "0x740563f8638565b490B1106Bf75d9AB095f7a718"
     ]
   },
   "codex": {
-    "address": "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF",
+    "address": "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
     "constructorArgs": []
   },
   "collybus": {
-    "address": "0xB894853D5771B588530394065D44A33BcB314aC5",
+    "address": "0x71716AC5ce19607F19cc924b27070103e2222827",
     "constructorArgs": []
   },
   "fiat": {
-    "address": "0x7c9571148968d05608d324463E38F04a7eAAd53e",
+    "address": "0x1d749E66a6B71c57bae3BC48B06636D8A82eb762",
     "constructorArgs": []
   },
   "debtAuction": {
-    "address": "0xfFB75F53A6c6e84cF885BbaEe53a55628c1E1378",
+    "address": "0x740563f8638565b490B1106Bf75d9AB095f7a718",
     "constructorArgs": [
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF",
-      "0xa28Bd1A33b47827f154F703C2BfD213801106460"
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0xE6797A3e32d88a2c343AF486F2dbC3D858D485B0"
     ]
   },
   "limes": {
-    "address": "0x195C99912D9A11EDf86Ad976683cC0Ebf05A502c",
+    "address": "0x3089C8b32b98AFceA884ec2Be63B0f19c42Cb006",
     "constructorArgs": [
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF"
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3"
     ]
   },
   "moneta": {
-    "address": "0xacB75532D1D83321f9B95f9b1eE6Bf3F9c2c475D",
+    "address": "0x4499ba4a071C4f4239eA3D70B9fF57AD56712Cd8",
     "constructorArgs": [
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF",
-      "0x7c9571148968d05608d324463E38F04a7eAAd53e"
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0x1d749E66a6B71c57bae3BC48B06636D8A82eb762"
     ]
   },
   "collateralAuction": {
-    "address": "0x2651d4Bf4EDe0A65d3439f10e69dCe419d9e63D9",
+    "address": "0xe01B18BE9084FE78cDf33f8490871D37e3aa805c",
     "constructorArgs": [
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF",
-      "0x195C99912D9A11EDf86Ad976683cC0Ebf05A502c"
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0x3089C8b32b98AFceA884ec2Be63B0f19c42Cb006"
     ]
   },
   "publican": {
-    "address": "0x9278785Fd998f527B2dBad2ed83d18a69DD50C14",
+    "address": "0x9aef06168f632d8533b1E6be715b1D2919E13F88",
     "constructorArgs": [
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF"
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3"
     ]
   },
   "surplusAuction": {
-    "address": "0x6d7132E7129037918b37f21911E9f4d087b86F17",
+    "address": "0xc39255047BfDb531c4623Ad4e3eF4d7fF3C4585A",
     "constructorArgs": [
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF",
-      "0xa28Bd1A33b47827f154F703C2BfD213801106460"
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0xE6797A3e32d88a2c343AF486F2dbC3D858D485B0"
     ]
   },
   "tenebrae": {
-    "address": "0x3ae8ad24912a621F7c4290A1cFcAE665a40Ea432",
+    "address": "0x9DE69ce8afAe30C4671E1131F26C9b7D1e0859d9",
     "constructorArgs": []
   },
   "proxyFactory": {
-    "address": "0xf0d4B8b15bF511E7c7071a5EFEfD85a5a4B86Db5",
+    "address": "0xe9C818ec2a8851D9b14D9285eDB7AecF79f90692",
     "constructorArgs": []
   },
   "proxyRegistry": {
-    "address": "0x499A852be7277a33511338C4e9B224aF0321C3A8",
+    "address": "0x3Fb445AcC1DF63Da15b3dd6248A815F31b19a67D",
     "constructorArgs": [
-      "0xf0d4B8b15bF511E7c7071a5EFEfD85a5a4B86Db5"
+      "0xe9C818ec2a8851D9b14D9285eDB7AecF79f90692"
     ]
   },
   "noLossCollateralAuctionActions": {
-    "address": "0x72614e33ba8fBE89ff2c7c6Edf8c56D43f51E577",
+    "address": "0x110273deEab4747197BB68b66C9eD320E2b58813",
     "constructorArgs": [
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF",
-      "0xacB75532D1D83321f9B95f9b1eE6Bf3F9c2c475D",
-      "0x7c9571148968d05608d324463E38F04a7eAAd53e",
-      "0x2651d4Bf4EDe0A65d3439f10e69dCe419d9e63D9"
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0x4499ba4a071C4f4239eA3D70B9fF57AD56712Cd8",
+      "0x1d749E66a6B71c57bae3BC48B06636D8A82eb762",
+      "0xe01B18BE9084FE78cDf33f8490871D37e3aa805c"
     ]
   },
   "vaultEPTActions": {
-    "address": "0xEEf2b5B29007FDCd31b9961a1D2691b69B3640aa",
+    "address": "0xCc1e8997D84fA9c65d7DC0Ad7Ccf6c0fC9056E78",
     "constructorArgs": [
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF",
-      "0xacB75532D1D83321f9B95f9b1eE6Bf3F9c2c475D",
-      "0x7c9571148968d05608d324463E38F04a7eAAd53e",
-      "0x9278785Fd998f527B2dBad2ed83d18a69DD50C14"
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0x4499ba4a071C4f4239eA3D70B9fF57AD56712Cd8",
+      "0x1d749E66a6B71c57bae3BC48B06636D8A82eb762",
+      "0x9aef06168f632d8533b1E6be715b1D2919E13F88"
+    ]
+  },
+  "vaultFCActions": {
+    "address": "0x94F696297b06AbfF55c686cD81bf4c1a3E6e146A",
+    "constructorArgs": [
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0x4499ba4a071C4f4239eA3D70B9fF57AD56712Cd8",
+      "0x1d749E66a6B71c57bae3BC48B06636D8A82eb762",
+      "0x9aef06168f632d8533b1E6be715b1D2919E13F88",
+      "0xd937e688765a38a01D37Fae67c2e9e2C38b1beC9"
     ]
   },
   "delphiChainlinkFactory": {
-    "address": "0x916fb7884E18213851b206FA2B1a4A07D840879a",
+    "address": "0x9111950b246FD4DAf9f05A81B198B6b94DF5b641",
     "constructorArgs": []
   },
-  "spotRelayer_USDC": {
-    "address": "0xC422b0F6C99B21288d65Fc85e3e5a42653298769",
+  "chainlinkMockProvider": {
+    "address": "0x4cD812de6c5F9f2CA3c314a5741b05d5F69ff3D5",
+    "constructorArgs": []
+  },
+  "spotRelayer_NotionalDAI": {
+    "address": "0xFf414c76Ca314E100AAAA9c2256f1501bb144f88",
     "constructorArgs": [
-      "0xB894853D5771B588530394065D44A33BcB314aC5",
+      "0x71716AC5ce19607F19cc924b27070103e2222827",
       1,
-      "0x21A8e84B9990f901B918858E0083E6e41028961d",
+      "0x6809b8e7718e95028A417bFD431A318D74b3E445",
+      "0x00000000000000000000000084e90bddff9a0e124f1ab7f4d1d33a7c748c1a16",
+      25
+    ]
+  },
+  "chainlinkValueProvider_NotionalDAI": {
+    "address": "0x6809b8e7718e95028A417bFD431A318D74b3E445",
+    "constructorArgs": [
+      3600,
+      "0xE678C27c10661f89c9AD31907d68BF61211949e8"
+    ]
+  },
+  "spotRelayer_USDC": {
+    "address": "0xEd3fA35320F2fA8A6eF85C7e5E13AeecCb889e1D",
+    "constructorArgs": [
+      "0x71716AC5ce19607F19cc924b27070103e2222827",
+      1,
+      "0x6F8A2E12B78Fe0A3c9064F58DD4aAb722dc4c874",
       "0x00000000000000000000000078deca24cba286c0f8d56370f5406b48cfce2f86",
       25
     ]
   },
   "chainlinkValueProvider_USDC": {
-    "address": "0x21A8e84B9990f901B918858E0083E6e41028961d",
+    "address": "0x6F8A2E12B78Fe0A3c9064F58DD4aAb722dc4c874",
     "constructorArgs": [
       3600,
-      "0x097b8bf0364d18f12c8ad4aede26c0ecc4c5b01f"
+      "0x4cD812de6c5F9f2CA3c314a5741b05d5F69ff3D5"
     ]
   },
   "delphiRelayerFactory": {
-    "address": "0xD0E652CF85CccD588A6E88044F4Bbb65455b5Efa",
+    "address": "0x3fe18bCdAff3637CeDed8a0Ced1d6553df5a78A5",
     "constructorArgs": []
   },
   "discountRateRelayer_ePyvUSDC": {
-    "address": "0x7EA0b447160885deBB6f6c1a28dA4E39Cbb9F307",
+    "address": "0x2bc7f076B1e6B7906F39440c0c2ce0d794F3981F",
     "constructorArgs": [
-      "0xB894853D5771B588530394065D44A33BcB314aC5",
+      "0x71716AC5ce19607F19cc924b27070103e2222827",
       0,
       "0x0000000000000000000000000000000000000000000000000000000000000001",
-      "3022265993"
+      3022265993
+    ]
+  },
+  "delphiNotionalFinanceFactory": {
+    "address": "0x14a696352D80C0E8331514890f828Da7de22a531",
+    "constructorArgs": []
+  },
+  "discountRateRelayer_fDAI_1656288000": {
+    "address": "0x110F76b32fE0b3DA8975304ec467A578257d54Fa",
+    "constructorArgs": [
+      "0x71716AC5ce19607F19cc924b27070103e2222827",
+      0,
+      "0x45a1Afe59194ec40F7cf390f3e603C2b778a56Ee",
+      "0x0000000000000000000000000000000000000000000000000000000000000064",
+      25
+    ]
+  },
+  "NotionalFinanceValueProvider_fDAI_1656288000": {
+    "address": "0x45a1Afe59194ec40F7cf390f3e603C2b778a56Ee",
+    "constructorArgs": [
+      3600,
+      "0xd937e688765a38a01D37Fae67c2e9e2C38b1beC9",
+      3,
+      9,
+      1656288000
     ]
   },
   "aerGuard": {
-    "address": "0xaB30dE084c4c0a55ad3343863C4A5de0C55191b9",
+    "address": "0xB2e4eC4358aa93c6757c210F1375bc12285e2E82",
     "constructorArgs": [
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       172800,
-      "0xdf448d166091faC56F5B09459Fa0D76421aC69D4"
+      "0x4FbF40C50Df8Aa45a3879Fcef111527bF348384b"
     ]
   },
   "auctionGuard": {
-    "address": "0xA783E757cf082d183350BB1CB6ee11cCF01c1975",
+    "address": "0xAA1221a95f5DDc12Ef5b3875a6B912f9Fa6A9A9B",
     "constructorArgs": [
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       172800,
-      "0x2651d4Bf4EDe0A65d3439f10e69dCe419d9e63D9"
+      "0xe01B18BE9084FE78cDf33f8490871D37e3aa805c"
     ]
   },
   "codexGuard": {
-    "address": "0xb0c1DdC40adD85a38cCC07eC2d3F5fEa02ce4fAC",
+    "address": "0x0A4789971447222B904124885B0B040D6806BB1C",
     "constructorArgs": [
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       172800,
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF"
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3"
     ]
   },
   "collybusGuard": {
-    "address": "0xD94b37A2B102D1121EDC98B604B91985e05d308a",
+    "address": "0x81bfAf2731c396959090a9545F1d7e37b09eBcef",
     "constructorArgs": [
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       172800,
-      "0xB894853D5771B588530394065D44A33BcB314aC5"
+      "0x71716AC5ce19607F19cc924b27070103e2222827"
     ]
   },
   "limesGuard": {
-    "address": "0xE00b8BF63734D672DB13749306417BD6a6D5D05C",
+    "address": "0xdbC2Cc6c9Ce2F38b82e2a2b13c7B36aD5A6A1cD4",
     "constructorArgs": [
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       172800,
-      "0x195C99912D9A11EDf86Ad976683cC0Ebf05A502c"
+      "0x3089C8b32b98AFceA884ec2Be63B0f19c42Cb006"
     ]
   },
   "publicanGuard": {
-    "address": "0x072AcDAFBc155C551078E0e146175d998d47d0c8",
+    "address": "0x9CB3178775fB89CEd73149c16D419421E05aCd8A",
     "constructorArgs": [
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       172800,
-      "0x9278785Fd998f527B2dBad2ed83d18a69DD50C14"
+      "0x9aef06168f632d8533b1E6be715b1D2919E13F88"
     ]
   },
   "vaultGuard": {
-    "address": "0xddE5Eb7e865bF05eee1E01D89244D43a938DfB69",
+    "address": "0x7fa929AE1f5589cbDF40789d3d790b8D4243D3A9",
     "constructorArgs": [
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       "0x8C1aC3c0D13A95cEDF6eb669B886065e2dD60BFc",
       172800,
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF",
-      "0x9278785Fd998f527B2dBad2ed83d18a69DD50C14",
-      "0x195C99912D9A11EDf86Ad976683cC0Ebf05A502c",
-      "0xB894853D5771B588530394065D44A33BcB314aC5",
-      "0x2651d4Bf4EDe0A65d3439f10e69dCe419d9e63D9",
-      "0x3099cd1184292DcC94603086f7Aa8DF5cF85Dba5"
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0x9aef06168f632d8533b1E6be715b1D2919E13F88",
+      "0x3089C8b32b98AFceA884ec2Be63B0f19c42Cb006",
+      "0x71716AC5ce19607F19cc924b27070103e2222827",
+      "0xe01B18BE9084FE78cDf33f8490871D37e3aa805c",
+      "0xaE3346be28666AadF217A9A82a3C795a45FEbE41"
     ]
   },
   "vaultFactory": {
-    "address": "0xda6b0341b48Cb157562e3244bcAfE6F89F958034",
+    "address": "0x2E8258dDD763a23D7A35BBDE7dFCd157c29A21D9",
     "constructorArgs": []
   },
-  "vaultEPT_ePyvUSDC_Impl": {
-    "address": "0x6B1dc48d8B591A9cF6f3Ce4eF18FC2403FEf04B1",
+  "vaultEPT_ePeyUSDC_impl_814C44": {
+    "address": "0x2520e0cb333181448B246833C829024ea80e6f58",
     "constructorArgs": [
-      "0x56974fC4bB4Dc18dDDa06B2056f1Bdfef0eCA0FF",
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
       "0x814C447a9F58A2b823504Fe2775bA48c843925B6",
       "0x5690332C2f0c12F00c147cE350d95B19a0C24f14"
     ]
   },
   "vaultEPT_eP:eyUSDC:10_AUG_22_GMT": {
-    "address": "0xA78E2F8e1dBBf145956Bb6C2AA9655218D100aa2",
+    "address": "0xbe2A988d69530f1483058c9D71f323d12b11b8d2",
     "constructorArgs": [
-      "0xdcf80c068b7ffdf7273d8adae4b076bf384f711a",
-      "0xB894853D5771B588530394065D44A33BcB314aC5"
+      "0xDCf80C068B7fFDF7273d8ADAE4B076BF384F711A",
+      "0x71716AC5ce19607F19cc924b27070103e2222827"
+    ]
+  },
+  "vaultFC_fDAI_3_MONTH": {
+    "address": "0x0Ccb3363500e2b81339451bE1dE32ba68b21e130",
+    "constructorArgs": [
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0x71716AC5ce19607F19cc924b27070103e2222827",
+      "0xd937e688765a38a01D37Fae67c2e9e2C38b1beC9",
+      "0x84e90bddff9a0e124f1ab7f4d1d33a7c748c1a16",
+      "7776000",
+      2
     ]
   }
 }
