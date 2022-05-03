@@ -148,13 +148,13 @@
     ]
   },
   "vaultFCActions": {
-    "address": "0x94F696297b06AbfF55c686cD81bf4c1a3E6e146A",
+    "address": "0x784b60dDD70377e4483Bb2998472c092d2F4e71A",
     "constructorArgs": [
       "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
       "0x4499ba4a071C4f4239eA3D70B9fF57AD56712Cd8",
       "0x1d749E66a6B71c57bae3BC48B06636D8A82eb762",
       "0x9aef06168f632d8533b1E6be715b1D2919E13F88",
-      "0xd937e688765a38a01D37Fae67c2e9e2C38b1beC9"
+      "0xD8229B55bD73c61D840d339491219ec6Fa667B0a"
     ]
   },
   "delphiChainlinkFactory": {
@@ -217,20 +217,20 @@
     "constructorArgs": []
   },
   "discountRateRelayer_fDAI_1656288000": {
-    "address": "0x110F76b32fE0b3DA8975304ec467A578257d54Fa",
+    "address": "0xe103d66246CEb916a75d9c4c324953586D0d238b",
     "constructorArgs": [
       "0x71716AC5ce19607F19cc924b27070103e2222827",
       0,
-      "0x45a1Afe59194ec40F7cf390f3e603C2b778a56Ee",
+      "0x612d2F228589F84425f903E0351c1C6D66959Ed7",
       "0x0000000000000000000000000000000000000000000000000000000000000064",
       25
     ]
   },
-  "NotionalFinanceValueProvider_fDAI_1656288000": {
-    "address": "0x45a1Afe59194ec40F7cf390f3e603C2b778a56Ee",
+  "notionalFinanceValueProvider_fDAI_1656288000": {
+    "address": "0x612d2F228589F84425f903E0351c1C6D66959Ed7",
     "constructorArgs": [
       3600,
-      "0xd937e688765a38a01D37Fae67c2e9e2C38b1beC9",
+      "0xD8229B55bD73c61D840d339491219ec6Fa667B0a",
       3,
       9,
       1656288000
@@ -323,12 +323,12 @@
       "0x71716AC5ce19607F19cc924b27070103e2222827"
     ]
   },
-  "vaultFC_fDAI_3_MONTH": {
-    "address": "0x0Ccb3363500e2b81339451bE1dE32ba68b21e130",
+  "vaultFC_fDAI_3MONTH": {
+    "address": "0xfC585dC29FB6e1700A98Fd6675C211161556a1F5",
     "constructorArgs": [
       "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
       "0x71716AC5ce19607F19cc924b27070103e2222827",
-      "0xd937e688765a38a01D37Fae67c2e9e2C38b1beC9",
+      "0xD8229B55bD73c61D840d339491219ec6Fa667B0a",
       "0x84e90bddff9a0e124f1ab7f4d1d33a7c748c1a16",
       "7776000",
       2
