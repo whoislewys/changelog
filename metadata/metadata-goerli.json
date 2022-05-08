@@ -2,7 +2,8 @@
   "0xbe2A988d69530f1483058c9D71f323d12b11b8d2": {
     "0": {
       "protocol": "Element Finance",
-      "symbol": "USDC Principal Token",
+      "asset": "USDC Principal Token",
+      "symbol": "pUSDC",
       "decimals": 6,
       "name": "vaultEPT_eP:eyUSDC:10-AUG-22-GMT",
       "icons": {
@@ -18,7 +19,8 @@
   "0xfC585dC29FB6e1700A98Fd6675C211161556a1F5": {
     "563373963149313": {
       "protocol": "Notional Finance",
-      "symbol": "DAI fCash",
+      "asset": "DAI fCash Token",
+      "symbol": "fDAI",
       "decimals": 8,
       "name": "vaultFC_fDAI_3MONTH",
       "icons": {
