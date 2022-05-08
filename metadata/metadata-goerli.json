@@ -3,7 +3,7 @@
     "0": {
       "protocol": "Element Finance",
       "asset": "USDC Principal Token",
-      "symbol": "pUSDC",
+      "symbol": "ePyvUSDC",
       "decimals": 6,
       "name": "vaultEPT_eP:eyUSDC:10-AUG-22-GMT",
       "icons": {
