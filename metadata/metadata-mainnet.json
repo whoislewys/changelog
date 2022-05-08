@@ -2,7 +2,8 @@
   "0xd9080bac070cf47cbdb7223d2440cf8e978e6b45": {
     "0": {
       "protocol": "Element Finance",
-      "symbol": "USDC Principal Token",
+      "asset": "USDC Principal Token",
+      "symbol": "ePyvUSDC",
       "decimals": 6,
       "name": "vaultEPT_ePyvUSDC_29APR22",
       "icons": {
@@ -18,7 +19,8 @@
   "0xea016f6a5eaac396baa3aa712e8d3f20764cbb1f": {
     "0": {
       "protocol": "Element Finance",
-      "symbol": "DAI Principal Token",
+      "asset": "DAI Principal Token",
+      "symbol": "ePyvDAI",
       "decimals": 18,
       "name": "VaultEPT_ePyvDAI_29APR22",
       "icons": {
@@ -34,7 +36,8 @@
   "0x222dee6192f946040f97aadb386fafa4e6310cdc": {
     "0": {
       "protocol": "Element Finance",
-      "symbol": "LUSD3CRV Principal Token",
+      "asset": "LUSD3CRV Principal Token",
+      "symbol": "ePyvLUSD3CRV",
       "decimals": 18,
       "name": "VaultEPT_ePyvLUSD3CRV_29APR22",
       "icons": {
@@ -50,7 +53,8 @@
   "0x4465476275E1201F2E5Ab9479E6a51c7875Ce700": {
     "0": {
       "protocol": "Element Finance",
-      "symbol": "USDC Principal Token",
+      "asset": "USDC Principal Token",
+      "symbol": "ePyvUSDC",
       "decimals": 6,
       "name": "vaultEPT_ePyvUSDC_16SEP22",
       "icons": {
@@ -66,7 +70,8 @@
   "0xb6922A39C85a4E838e1499A8B7465BDca2E49491": {
     "0": {
       "protocol": "Element Finance",
-      "symbol": "DAI Principal Token",
+      "asset": "DAI Principal Token",
+      "symbol": "ePyvDAI",
       "decimals": 18,
       "name": "VaultEPT_ePyvDAI_16SEP22",
       "icons": {
@@ -82,7 +87,8 @@
   "0xE486a875367875a7Ec1DfE40510B6Ed217849737": {
     "0": {
       "protocol": "Element Finance",
-      "symbol": "LUSD3CRV Principal Token",
+      "asset": "LUSD3CRV Principal Token",
+      "symbol": "ePyvLUSD3CRV",
       "decimals": 18,
       "name": "VaultEPT_ePyvLUSD3CRV_16SEP22",
       "icons": {
