@@ -400,5 +400,129 @@
       "0x83d392a7be901892a8c861c96Ea430B8d9c2BD51",
       "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
     ]
+  },
+  "delphiNotionalFinanceFactory": {
+    "address": "0xfC17553F678b4980a4A047fBf8F28b9842e1D494",
+    "constructorArgs": []
+  },
+  "discountRateRelayer_fDAI_1656288000": {
+    "address": "0x9769046beC6a8A2a747D26a3195c5B26595CEeB5",
+    "constructorArgs": [
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A",
+      0,
+      "0x40429D81c6E7500Bb0410320a011c7Ee62565909",
+      "0x0000000000000000000000000000000000000000000000000000000000000064",
+      25
+    ]
+  },
+  "notionalFinanceValueProvider_fDAI_1656288000": {
+    "address": "0x40429D81c6E7500Bb0410320a011c7Ee62565909",
+    "constructorArgs": [
+      3600,
+      "0x1344A36A1B56144C3Bc62E7757377D288fDE0369",
+      2,
+      9,
+      1656288000
+    ]
+  },
+  "discountRateRelayer_fDAI_1664064000": {
+    "address": "0x5a40D3c1108996e81ee370C9a88Ec6D41856DC29",
+    "constructorArgs": [
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A",
+      0,
+      "0x6c64d05b5f62E86ce69701e4Dfb8B0734618713C",
+      "0x0000000000000000000000000000000000000000000000000000000000000065",
+      25
+    ]
+  },
+  "notionalFinanceValueProvider_fDAI_1664064000": {
+    "address": "0x6c64d05b5f62E86ce69701e4Dfb8B0734618713C",
+    "constructorArgs": [
+      3600,
+      "0x1344A36A1B56144C3Bc62E7757377D288fDE0369",
+      2,
+      9,
+      1664064000
+    ]
+  },
+  "discountRateRelayer_fDAI_1679616000": {
+    "address": "0x1488ed00B597cA857b7B93Beed9109e469ab00c0",
+    "constructorArgs": [
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A",
+      0,
+      "0x9D36ddcD2A57faC709dbfA9139AFF27beC76460A",
+      "0x0000000000000000000000000000000000000000000000000000000000000066",
+      25
+    ]
+  },
+  "notionalFinanceValueProvider_fDAI_1679616000": {
+    "address": "0x9D36ddcD2A57faC709dbfA9139AFF27beC76460A",
+    "constructorArgs": [
+      3600,
+      "0x1344A36A1B56144C3Bc62E7757377D288fDE0369",
+      2,
+      9,
+      1679616000
+    ]
+  },
+  "discountRateRelayer_fUSDC_1656288000": {
+    "address": "0xcF2401F58D42cfA604C8B57b075BC0B98522Fa9E",
+    "constructorArgs": [
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A",
+      0,
+      "0x54605bf141637c45aE144A5d65232422bfDed891",
+      "0x0000000000000000000000000000000000000000000000000000000000000067",
+      25
+    ]
+  },
+  "notionalFinanceValueProvider_fUSDC_1656288000": {
+    "address": "0x54605bf141637c45aE144A5d65232422bfDed891",
+    "constructorArgs": [
+      3600,
+      "0x1344A36A1B56144C3Bc62E7757377D288fDE0369",
+      3,
+      9,
+      1656288000
+    ]
+  },
+  "discountRateRelayer_fUSDC_1664064000": {
+    "address": "0x5Bfc5a2dFc5D587e912c1aca44aA3990aBF7eC72",
+    "constructorArgs": [
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A",
+      0,
+      "0x740Dddcb649Be871024FA09e6Ef27dCDae681bAe",
+      "0x0000000000000000000000000000000000000000000000000000000000000068",
+      25
+    ]
+  },
+  "notionalFinanceValueProvider_fUSDC_1664064000": {
+    "address": "0x740Dddcb649Be871024FA09e6Ef27dCDae681bAe",
+    "constructorArgs": [
+      3600,
+      "0x1344A36A1B56144C3Bc62E7757377D288fDE0369",
+      3,
+      9,
+      1664064000
+    ]
+  },
+  "discountRateRelayer_fUSDC_1679616000": {
+    "address": "0xc8aCA1CA3A06A96BF19fD4E305DAa6b54c19AD41",
+    "constructorArgs": [
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A",
+      0,
+      "0x99e1E456490123746801af1e7ec23247865Fc5D8",
+      "0x0000000000000000000000000000000000000000000000000000000000000069",
+      25
+    ]
+  },
+  "notionalFinanceValueProvider_fUSDC_1679616000": {
+    "address": "0x99e1E456490123746801af1e7ec23247865Fc5D8",
+    "constructorArgs": [
+      3600,
+      "0x1344A36A1B56144C3Bc62E7757377D288fDE0369",
+      3,
+      9,
+      1679616000
+    ]
   }
 }
