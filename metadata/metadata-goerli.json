@@ -19,7 +19,7 @@
   "0xfC585dC29FB6e1700A98Fd6675C211161556a1F5": {
     "563373963149313": {
       "protocol": "Notional Finance",
-      "asset": "DAI fCash Token",
+      "asset": "DAI fCash Token (3 Month)",
       "symbol": "fDAI",
       "decimals": 8,
       "name": "vaultFC_fDAI_3MONTH",
