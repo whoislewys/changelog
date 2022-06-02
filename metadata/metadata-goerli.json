@@ -31,5 +31,21 @@
       "project": "https://notional.finance/",
       "asset": "https://goerli.notional.finance/lend/DAI"
     }
+  },
+  "0xA54B65Ab45563E120A18B6e7Cfc9920ddaFa5355": {
+    "protocol": "Yield Protocol",
+    "asset": "USDC Fixed Yield Token",
+    "symbol": "fyUSDC",
+    "decimals": 6,
+    "name": "vaultFY_FYUSDC2206",
+    "tokenIds": ["0"],
+    "icons": {
+      "main": "",
+      "secondary": ""
+    },
+    "urls": {
+      "project": "https://yieldprotocol.com/",
+      "asset": "https://app.yieldprotocol.com/borrow#/lend"
+    }
   }
 }
