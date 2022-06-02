@@ -333,5 +333,28 @@
       "7776000",
       2
     ]
+  },
+  "discountRateRelayer_FYUSDC2206": {
+    "address": "0xD1D669CF8203E8eE304dD183d99eCE4ad8fb177E",
+    "constructorArgs": [
+      "0x71716AC5ce19607F19cc924b27070103e2222827",
+      0,
+      "0x000000000000000000000000000000000000000000000000000000000000012c",
+      3022265993
+    ]
+  },
+  "vaultFY_FYUSDC2206_impl": {
+    "address": "0xF8116052104C8Eeb88cB36C38D3759b3fCA22d0b",
+    "constructorArgs": [
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0xDd5F34950354434338e036E414eD652B9CE8829A"
+    ]
+  },
+  "vaultFY_FYUSDC2206": {
+    "address": "0xA54B65Ab45563E120A18B6e7Cfc9920ddaFa5355",
+    "constructorArgs": [
+      "0xe43a775D03F664146Da9c156253189dBC6c1a876",
+      "0x71716AC5ce19607F19cc924b27070103e2222827"
+    ]
   }
 }
