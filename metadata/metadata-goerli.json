@@ -5,7 +5,6 @@
     "symbol": "ePyvUSDC",
     "decimals": 6,
     "name": "vaultEPT_eP:eyUSDC:10-AUG-22-GMT",
-    "term": "1 Year",
     "tokenIds": [
       "0"
     ],
@@ -20,11 +19,10 @@
   },
   "0xfC585dC29FB6e1700A98Fd6675C211161556a1F5": {
     "protocol": "Notional Finance",
-    "asset": "DAI fCash Token (3 Month)",
+    "asset": "DAI fCash Token",
     "symbol": "fDAI",
     "decimals": 8,
     "name": "vaultFC_fDAI_3MONTH",
-    "term": "3 Month",
     "tenor": 7776000,
     "tokenIds": [
       "563373963149313"
@@ -44,7 +42,6 @@
     "symbol": "fyUSDC",
     "decimals": 6,
     "name": "vaultFY_FYUSDC2206",
-    "term": "6 Month",
     "tokenIds": [
       "0"
     ],
