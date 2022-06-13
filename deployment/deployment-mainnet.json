@@ -600,5 +600,60 @@
       "31104000",
       2
     ]
+  },
+  "vaultFYActions": {
+    "address": "0xaedbf2a33b778bb4D229fbc0c1920821619263c1",
+    "constructorArgs": [
+      "0x6bF5EB06201e4ea7C315b1C23BfE79fAE30541F9",
+      "0xEA8Efd605845F4cFAa8Ee6c757390196E1b3f736",
+      "0x586Aa273F262909EEF8fA02d90Ab65F5015e0516",
+      "0x3fF548c77A82B377258b5220164E7Ae267eD8978"
+    ]
+  },
+  "discountRateRelayer_FYUSDC2209": {
+    "address": "0x5ECF7C4cb6aa851382aF02E2AA25A8550D5d33Da",
+    "constructorArgs": [
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A",
+      0,
+      "0x000000000000000000000000000000000000000000000000000000000000012c",
+      3022265993
+    ]
+  },
+  "discountRateRelayer_FYDAI2209": {
+    "address": "0x383F91C98380eeD6b874A2d543E202542dc7BEe4",
+    "constructorArgs": [
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A",
+      0,
+      "0x000000000000000000000000000000000000000000000000000000000000012d",
+      3022265993
+    ]
+  },
+  "vaultFY_FYUSDC2209_impl": {
+    "address": "0x4c06E57b9c531567040C4ac49FE29006BBee4c55",
+    "constructorArgs": [
+      "0x6bF5EB06201e4ea7C315b1C23BfE79fAE30541F9",
+      "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+    ]
+  },
+  "vaultFY_FYUSDC2209": {
+    "address": "0x12DDdc27A8D8CE9B0c5b1F3bA3C87Cf3496708Bd",
+    "constructorArgs": [
+      "0x53C2a1bA37FF3cDaCcb3EA030DB3De39358e5593",
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
+    ]
+  },
+  "vaultFY_FYDAI2209_impl": {
+    "address": "0x0E04df01c2E9962cb21dBe8DE5b3625758AcAF13",
+    "constructorArgs": [
+      "0x6bF5EB06201e4ea7C315b1C23BfE79fAE30541F9",
+      "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+    ]
+  },
+  "vaultFY_FYDAI2209": {
+    "address": "0x03c1aEdFaa7bB81Dbd83338D488a1318B64Ab388",
+    "constructorArgs": [
+      "0xFCb9B8C5160Cf2999f9879D8230dCed469E72eeb",
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
+    ]
   }
 }
