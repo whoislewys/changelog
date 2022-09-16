@@ -307,10 +307,6 @@
       "0xBD22352Db4CeeE461f80Bd5140026Fe5A5FF265D"
     ]
   },
-  "vaultFactory": {
-    "address": "0xBFcAe29D566a870a88e0692e30020cEA3236258a",
-    "constructorArgs": []
-  },
   "vaultEPT_ePyvUSDC_Impl_62d985": {
     "address": "0xc59D2cfC0993DAfb870Eaa0A42907cD67A51A527",
     "constructorArgs": [
@@ -356,27 +352,11 @@
       "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
     ]
   },
-  "vaultEPT_ePyvUSDC_impl_57A170": {
-    "address": "0x128776ce08127853C15FAA89Fbe520650e47177C",
-    "constructorArgs": [
-      "0x6bF5EB06201e4ea7C315b1C23BfE79fAE30541F9",
-      "0x57A170cEC0c9Daa701d918d60809080C4Ba3C570",
-      "0x62F161BF3692E4015BefB05A03a94A40f520d1c0"
-    ]
-  },
   "vaultEPT_ePyvUSDC_16SEP22": {
     "address": "0x4465476275E1201F2E5Ab9479E6a51c7875Ce700",
     "constructorArgs": [
       "0xCFe60a1535ecc5B0bc628dC97111C8bb01637911",
       "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
-    ]
-  },
-  "vaultEPT_ePyvDAI_impl_3A285c": {
-    "address": "0x9CF0f26A996818BEE18a4Eb7E306425d5e846343",
-    "constructorArgs": [
-      "0x6bF5EB06201e4ea7C315b1C23BfE79fAE30541F9",
-      "0x3A285cbE492cB172b78E76Cf4f15cb6Fe9f162E4",
-      "0x62F161BF3692E4015BefB05A03a94A40f520d1c0"
     ]
   },
   "vaultEPT_ePyvDAI_16SEP22": {
@@ -653,6 +633,40 @@
     "address": "0x03c1aEdFaa7bB81Dbd83338D488a1318B64Ab388",
     "constructorArgs": [
       "0xFCb9B8C5160Cf2999f9879D8230dCed469E72eeb",
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
+    ]
+  },
+  "vaultFactory": {
+    "address": "0x79e26f4d9e35ddfd8Ad5FAB78147f69FfF76e5D3",
+    "constructorArgs": []
+  },
+  "vaultEPT_ePyvUSDC_impl_57A170": {
+    "address": "0xd94C7FC2dc5993cb0338027a68074AE176220429",
+    "constructorArgs": [
+      "0x6bF5EB06201e4ea7C315b1C23BfE79fAE30541F9",
+      "0x57A170cEC0c9Daa701d918d60809080C4Ba3C570",
+      "0x62F161BF3692E4015BefB05A03a94A40f520d1c0"
+    ]
+  },
+  "vaultEPT_ePyvUSDC_24FEB23": {
+    "address": "0x4fD9BB20f2c3aC604b844EC2B86b643722cCd8aC",
+    "constructorArgs": [
+      "0xB83809806A076A1413437Ea3E553d6bF41993A21",
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
+    ]
+  },
+  "vaultEPT_ePyvDAI_impl_3a285c": {
+    "address": "0x4c79e8CBb0Cc479FDFa6EC5ab214c39c88821F82",
+    "constructorArgs": [
+      "0x6bF5EB06201e4ea7C315b1C23BfE79fAE30541F9",
+      "0x3a285cbe492cb172b78e76cf4f15cb6fe9f162e4",
+      "0x62F161BF3692E4015BefB05A03a94A40f520d1c0"
+    ]
+  },
+  "vaultEPT_ePyvDAI_24FEB23": {
+    "address": "0x5a92F03D9079E009325D27AF884dB5EbDF181eAf",
+    "constructorArgs": [
+      "0x09459654777Bb2669AD8aD0b54E876D4b5Ff77F4",
       "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
     ]
   }
