@@ -162,7 +162,7 @@
     "constructorArgs": []
   },
   "chainlinkMockProvider": {
-    "address": "0x4cD812de6c5F9f2CA3c314a5741b05d5F69ff3D5",
+    "address": "0xcabd5EA9e3af731f7BE7b1B55AeaA7C329687849",
     "constructorArgs": []
   },
   "spotRelayer_NotionalDAI": {
@@ -364,6 +364,38 @@
       "0x4499ba4a071C4f4239eA3D70B9fF57AD56712Cd8",
       "0x1d749E66a6B71c57bae3BC48B06636D8A82eb762",
       "0x9aef06168f632d8533b1E6be715b1D2919E13F88"
+    ]
+  },
+  "spotRelayer_DAI": {
+    "address": "0x74cDe5B6C386f03a22D47ac069AeF2c125e29c4F",
+    "constructorArgs": [
+      "0x71716AC5ce19607F19cc924b27070103e2222827",
+      1,
+      "0x58398161eFdf571C37c3F9F79ee0D992045C2871",
+      "0x0000000000000000000000005bd768cce8c529cdf23b136bb486a81f64985b92",
+      25
+    ]
+  },
+  "chainlinkValueProvider_DAI": {
+    "address": "0x58398161eFdf571C37c3F9F79ee0D992045C2871",
+    "constructorArgs": [
+      3600,
+      "0xcabd5EA9e3af731f7BE7b1B55AeaA7C329687849"
+    ]
+  },
+  "vaultEPT_ePvyDAI_impl_8dc82c": {
+    "address": "0xB0fA7603aDc4780011Bde57CD7760836eb91C83b",
+    "constructorArgs": [
+      "0xF56CCAEFfdFE6b2ED8334F58F6C25b6910F06Bd3",
+      "0x8dc82c95b8901db35390aa4096b643d7724f278d",
+      "0x5690332C2f0c12F00c147cE350d95B19a0C24f14"
+    ]
+  },
+  "vaultEPT_eP:eyDAI:03_NOV_22_GMT": {
+    "address": "0x70264b1F74d2F1616D4C93BAfeF0Dc02aC6bEDdb",
+    "constructorArgs": [
+      "0x14f440d0f29e7902Bd1B2fCb317552EDC8837882",
+      "0x71716AC5ce19607F19cc924b27070103e2222827"
     ]
   }
 }
