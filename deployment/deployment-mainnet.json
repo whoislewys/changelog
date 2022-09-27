@@ -683,5 +683,11 @@
       "0xcDfBf28Db3B1B7fC8efE08f988D955270A5c4752",
       "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
     ]
+  },
+  "flash": {
+    "address": "0xCF472064A103Fa0AbFE75f66367e27C484f53c8b",
+    "constructorArgs": [
+      "0xEA8Efd605845F4cFAa8Ee6c757390196E1b3f736"
+    ]
   }
 }
