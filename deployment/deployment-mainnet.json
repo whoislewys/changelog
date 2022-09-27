@@ -608,7 +608,7 @@
       3022265993
     ]
   },
-  "vaultFY_FYUSDC2209_impl": {
+  "vaultFY_USDC_impl": {
     "address": "0x4c06E57b9c531567040C4ac49FE29006BBee4c55",
     "constructorArgs": [
       "0x6bF5EB06201e4ea7C315b1C23BfE79fAE30541F9",
@@ -622,7 +622,7 @@
       "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
     ]
   },
-  "vaultFY_FYDAI2209_impl": {
+  "vaultFY_DAI_impl": {
     "address": "0x0E04df01c2E9962cb21dBe8DE5b3625758AcAF13",
     "constructorArgs": [
       "0x6bF5EB06201e4ea7C315b1C23BfE79fAE30541F9",
@@ -667,6 +667,20 @@
     "address": "0x5a92F03D9079E009325D27AF884dB5EbDF181eAf",
     "constructorArgs": [
       "0x09459654777Bb2669AD8aD0b54E876D4b5Ff77F4",
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
+    ]
+  },
+  "vaultFY_FYUSDC2212": {
+    "address": "0x54CF87b539b12903cd0E4f2f0f134ae6eAac0c58",
+    "constructorArgs": [
+      "0x38b8BF13c94082001f784A642165517F8760988f",
+      "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
+    ]
+  },
+  "vaultFY_FYDAI2212": {
+    "address": "0x4fC39C84Ba0D30E18F86A442C2d15A39c183A2d7",
+    "constructorArgs": [
+      "0xcDfBf28Db3B1B7fC8efE08f988D955270A5c4752",
       "0xD503383fFABbec8Eb85eAED448fE1fFEc0a8148A"
     ]
   }
