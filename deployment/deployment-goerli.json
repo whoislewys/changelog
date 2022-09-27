@@ -397,5 +397,11 @@
       "0x14f440d0f29e7902Bd1B2fCb317552EDC8837882",
       "0x71716AC5ce19607F19cc924b27070103e2222827"
     ]
+  },
+  "flash": {
+    "address": "0x20D12da3575b3050f372332155fBd2B98E09A9B8",
+    "constructorArgs": [
+      "0x4499ba4a071C4f4239eA3D70B9fF57AD56712Cd8"
+    ]
   }
 }
